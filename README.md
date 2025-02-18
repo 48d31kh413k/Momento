@@ -1,4 +1,4 @@
-# IG - Social Media Application
+# Momento - Social Media Application
 
 This is a simple social media application built with Django. Users can sign up, log in, create posts, like posts, follow other users, and explore posts.
 
