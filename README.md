@@ -18,7 +18,7 @@ This is a simple social media application built with Django. Users can sign up, 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/ig.git
+git clone https://github.com/48d31kh413k/Momento.git
 cd ig
 ```
 
